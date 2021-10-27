@@ -1,0 +1,35 @@
+body {
+  background: rgb(230, 230, 230);
+  color: rgb(50,50,50);
+  font-family: Roboto;
+  font-size: 17px;
+}
+
+h1 {
+  color: red;
+  font-family: Futura;
+  font-size: 32px;
+}
+
+h2{
+  background: rgb(230, 230, 230);
+  color: rgb(50,50,50);
+  font-family: Helvetica;
+  font-size: 25px;
+}
+
+h3{
+   background: rgb(230, 230, 230);
+  color: rgb(50,50,50);
+  font-family: Helvetica;
+  font-size: 25px;
+
+}
+
+body{
+  text-align: center;
+}
+
+
+
+
